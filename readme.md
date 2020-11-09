@@ -1,62 +1,49 @@
-# Note Taker
-  
-  
-  ![License](https://img.shields.io/badge/license-mit-informational.svg)
-  
+# Project Name
+> Here goes your awesome project description!
 
-  ## Description
-  
-  This note taker utilizes express.js to create a fully functioning app that interacts with a server and can update notes and also delete notes that are present. The application is deployed through Heroku and works without any console errors.
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
-  ## Table of contents
+## General info
+Add more general information about project. What the purpose of the project is? Motivation?
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
+## Screenshots
+![Example screenshot](./img/screenshot.png)
 
-  ## Installation
+## Technologies
+* Tech 1 - version 1.0
+* Tech 2 - version 2.0
+* Tech 3 - version 3.0
 
-  To install npm is required, uuid, util, and node. 
+## Setup
+Describe how to install / setup your local environement / add link to demo version.
 
-  ## Usage 
+## Code Examples
+Show examples of usage:
+`put-your-code-here`
 
-  To visit the live page go to: https://radiant-coast-49049.herokuapp.com/
+## Features
+List of features ready and TODOs for future development
+* Awesome feature 1
+* Awesome feature 2
+* Awesome feature 3
 
-  ## Questions?
+To-do list:
+* Wow improvement to be done 1
+* Wow improvement to be done 2
 
- 
+## Status
+Project is: _in progress_, _finished_, _no longer continue_ and why?
 
-  ## License
+## Inspiration
+Add here credits. Project inspired by..., based on...
 
-  Information on the license(s)
-
-  
-  #### MIT License
-
-      Copyright (c) 2020 cullinans1
-
-      Permission is hereby granted, free of charge, to any person obtaining a copy
-      of this software and associated documentation files (the "Software"), to deal
-      in the Software without restriction, including without limitation the rights
-      to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-      copies of the Software, and to permit persons to whom the Software is
-      furnished to do so, subject to the following conditions:
-
-      The above copyright notice and this permission notice shall be included in all
-      copies or substantial portions of the Software.
-
-      THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-      IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-      FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-      AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-      LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-      OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-      SOFTWARE.FTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
-      IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS 
-      FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR 
-      COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER 
-      IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
-      WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-      
-
-  
+## Contact
+Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!

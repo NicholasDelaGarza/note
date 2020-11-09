@@ -1,0 +1,30 @@
+{
+    "name": "note-taker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "jest",
+      "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1",
+      "node": "^14.7.0",
+      "path": "^0.12.7",
+      "util": "^0.12.3",
+      "uuid": "^3.4.0"
+    },
+    "devDependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/cullinans1/note-taker.git"
+    },
+    "keywords": [],
+    "bugs": {
+      "url": "https://github.com/cullinans1/note-taker/issues"
+    },
+    "homepage": "https://github.com/cullinans1/note-taker#readme"
+  }
+  
